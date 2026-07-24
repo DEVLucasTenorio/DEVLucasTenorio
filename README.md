@@ -6,7 +6,7 @@
 <a href="https://github.com/DEVLucasTenorio">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=DEVLucasTenorio&style=for-the-badge&color=#556b2f&label=Visitas+ao+Perfil" />
+<img src="https://komarev.com/ghpvc/?username=DEVLucasTenorio&style=for-the-badge&color=556b2f&label=Visitas+ao+Perfil" />
 
 </div>
 
