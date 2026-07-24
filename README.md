@@ -3,4 +3,4 @@
 ⚙️ Técnico em Mecânica em formação (SENAI Roberto Simonsen) | 💻 Desenvolvedor de Sistemas (SENAI Cyber & IA - SCS)
 Como me encontrar:
 - LinkedIn: https://www.linkedin.com/in/lucas-ten%C3%B3rio-de-miranda-77696726b?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- E-mail: @demirandatenorio@gmail.com
+- E-mail: demirandatenorio@gmail.com
