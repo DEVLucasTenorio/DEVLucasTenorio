@@ -5,8 +5,7 @@
 <a href="https://www.linkedin.com/in/lucas-ten%C3%B3rio-de-miranda-77696726b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/DEVLucasTenorio">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+ <a href = "mailto:moraisguilherme675@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </a>
 <img src="https://komarev.com/ghpvc/?username=DEVLucasTenorio&style=for-the-badge&color=556b2f&label=Visitas+ao+Perfil" />
 
